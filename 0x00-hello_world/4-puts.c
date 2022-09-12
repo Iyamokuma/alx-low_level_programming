@@ -1,6 +1,4 @@
-#!/bin/bash
-
-                                                                                                                                        
+#include <studio.h>
 
 /**                                                                                                                                     
 
@@ -10,9 +8,9 @@
 
 * Description: using the main function                                                                                                  
 
-* This program prints "Programming is like building a multilingual puzzle                                                               
+* This program prints "Programming is like building a multilingual puzzle"                                                         
 
-* Return: 0                                                                                                                             
+* Return: 0 if success                                                                                                                     
 
 */                                                                                                                                      
 
