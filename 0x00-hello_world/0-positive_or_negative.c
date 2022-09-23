@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
+#include <studio.h>
 
 /**
  * main - assigns a random number to int n everytime
