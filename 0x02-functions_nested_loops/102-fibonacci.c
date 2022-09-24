@@ -15,9 +15,9 @@ n = 50;
 for (i = 0; i < n; i++)
 {
 if (i == 49)
-{
+{			
 printf("%lu", f1);
-} 
+}
 else
 {
 printf("%lu, ", f1);
